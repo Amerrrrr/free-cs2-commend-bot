@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amerrrrr.github.io/free-cs2-commend-bot/sitemap.xml
